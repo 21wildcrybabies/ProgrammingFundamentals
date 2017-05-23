@@ -1,0 +1,5 @@
+C:\Users\Maria\documents\visual studio 2017\Projects\CSharpIntroandBasicSyntaxExercises\Problem 3. Miles to Kilometers\bin\Release\Problem_3.Miles_to_Kilometers.exe.config
+C:\Users\Maria\documents\visual studio 2017\Projects\CSharpIntroandBasicSyntaxExercises\Problem 3. Miles to Kilometers\bin\Release\Problem_3.Miles_to_Kilometers.exe
+C:\Users\Maria\documents\visual studio 2017\Projects\CSharpIntroandBasicSyntaxExercises\Problem 3. Miles to Kilometers\bin\Release\Problem_3.Miles_to_Kilometers.pdb
+C:\Users\Maria\documents\visual studio 2017\Projects\CSharpIntroandBasicSyntaxExercises\Problem 3. Miles to Kilometers\obj\Release\Problem_3.Miles_to_Kilometers.exe
+C:\Users\Maria\documents\visual studio 2017\Projects\CSharpIntroandBasicSyntaxExercises\Problem 3. Miles to Kilometers\obj\Release\Problem_3.Miles_to_Kilometers.pdb
