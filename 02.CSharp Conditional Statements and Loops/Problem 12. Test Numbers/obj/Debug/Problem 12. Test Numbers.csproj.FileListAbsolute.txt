@@ -1,0 +1,6 @@
+C:\Users\Maria\documents\visual studio 2017\Projects\CSharp Conditional Statements and Loops\Problem 12. Test Numbers\bin\Debug\Problem_12.Test_Numbers.exe.config
+C:\Users\Maria\documents\visual studio 2017\Projects\CSharp Conditional Statements and Loops\Problem 12. Test Numbers\bin\Debug\Problem_12.Test_Numbers.exe
+C:\Users\Maria\documents\visual studio 2017\Projects\CSharp Conditional Statements and Loops\Problem 12. Test Numbers\bin\Debug\Problem_12.Test_Numbers.pdb
+C:\Users\Maria\documents\visual studio 2017\Projects\CSharp Conditional Statements and Loops\Problem 12. Test Numbers\obj\Debug\Problem 12. Test Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Maria\documents\visual studio 2017\Projects\CSharp Conditional Statements and Loops\Problem 12. Test Numbers\obj\Debug\Problem_12.Test_Numbers.exe
+C:\Users\Maria\documents\visual studio 2017\Projects\CSharp Conditional Statements and Loops\Problem 12. Test Numbers\obj\Debug\Problem_12.Test_Numbers.pdb

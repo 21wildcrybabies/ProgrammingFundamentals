@@ -1,0 +1,5 @@
+C:\Users\Maria\documents\visual studio 2017\Projects\CSharp Conditional Statements and Loops\Problem 13. Game of Numbers\bin\Debug\Problem_13.Game_of_Numbers.exe.config
+C:\Users\Maria\documents\visual studio 2017\Projects\CSharp Conditional Statements and Loops\Problem 13. Game of Numbers\bin\Debug\Problem_13.Game_of_Numbers.exe
+C:\Users\Maria\documents\visual studio 2017\Projects\CSharp Conditional Statements and Loops\Problem 13. Game of Numbers\bin\Debug\Problem_13.Game_of_Numbers.pdb
+C:\Users\Maria\documents\visual studio 2017\Projects\CSharp Conditional Statements and Loops\Problem 13. Game of Numbers\obj\Debug\Problem_13.Game_of_Numbers.exe
+C:\Users\Maria\documents\visual studio 2017\Projects\CSharp Conditional Statements and Loops\Problem 13. Game of Numbers\obj\Debug\Problem_13.Game_of_Numbers.pdb

@@ -1,0 +1,5 @@
+C:\Users\Maria\documents\visual studio 2017\Projects\CSharp Conditional Statements and Loops\Problem 9. Count the Integers\bin\Debug\Problem_9.Count_the_Integers.exe.config
+C:\Users\Maria\documents\visual studio 2017\Projects\CSharp Conditional Statements and Loops\Problem 9. Count the Integers\bin\Debug\Problem_9.Count_the_Integers.exe
+C:\Users\Maria\documents\visual studio 2017\Projects\CSharp Conditional Statements and Loops\Problem 9. Count the Integers\bin\Debug\Problem_9.Count_the_Integers.pdb
+C:\Users\Maria\documents\visual studio 2017\Projects\CSharp Conditional Statements and Loops\Problem 9. Count the Integers\obj\Debug\Problem_9.Count_the_Integers.exe
+C:\Users\Maria\documents\visual studio 2017\Projects\CSharp Conditional Statements and Loops\Problem 9. Count the Integers\obj\Debug\Problem_9.Count_the_Integers.pdb
