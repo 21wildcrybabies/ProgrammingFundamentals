@@ -1,0 +1,6 @@
+C:\Users\Maria\documents\visual studio 2017\Projects\CSharp Basics - More Exercises\04. Photo Gallery\bin\Debug\_04.Photo_Gallery.exe.config
+C:\Users\Maria\documents\visual studio 2017\Projects\CSharp Basics - More Exercises\04. Photo Gallery\bin\Debug\_04.Photo_Gallery.exe
+C:\Users\Maria\documents\visual studio 2017\Projects\CSharp Basics - More Exercises\04. Photo Gallery\bin\Debug\_04.Photo_Gallery.pdb
+C:\Users\Maria\documents\visual studio 2017\Projects\CSharp Basics - More Exercises\04. Photo Gallery\obj\Debug\04. Photo Gallery.csprojResolveAssemblyReference.cache
+C:\Users\Maria\documents\visual studio 2017\Projects\CSharp Basics - More Exercises\04. Photo Gallery\obj\Debug\_04.Photo_Gallery.exe
+C:\Users\Maria\documents\visual studio 2017\Projects\CSharp Basics - More Exercises\04. Photo Gallery\obj\Debug\_04.Photo_Gallery.pdb

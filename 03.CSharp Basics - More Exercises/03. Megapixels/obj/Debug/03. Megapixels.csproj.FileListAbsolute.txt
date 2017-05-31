@@ -1,0 +1,5 @@
+c:\users\maria\documents\visual studio 2017\Projects\CSharp Basics - More Exercises\03. Megapixels\bin\Debug\_03.Megapixels.exe.config
+c:\users\maria\documents\visual studio 2017\Projects\CSharp Basics - More Exercises\03. Megapixels\bin\Debug\_03.Megapixels.exe
+c:\users\maria\documents\visual studio 2017\Projects\CSharp Basics - More Exercises\03. Megapixels\bin\Debug\_03.Megapixels.pdb
+c:\users\maria\documents\visual studio 2017\Projects\CSharp Basics - More Exercises\03. Megapixels\obj\Debug\_03.Megapixels.exe
+c:\users\maria\documents\visual studio 2017\Projects\CSharp Basics - More Exercises\03. Megapixels\obj\Debug\_03.Megapixels.pdb
