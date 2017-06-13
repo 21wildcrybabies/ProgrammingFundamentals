@@ -1,0 +1,6 @@
+c:\users\maria\documents\visual studio 2017\Projects\Methods.Debugging Code - Exercises\04. Numbers in Reversed Order\bin\Debug\_04.Numbers_in_Reversed_Order.exe.config
+c:\users\maria\documents\visual studio 2017\Projects\Methods.Debugging Code - Exercises\04. Numbers in Reversed Order\bin\Debug\_04.Numbers_in_Reversed_Order.exe
+c:\users\maria\documents\visual studio 2017\Projects\Methods.Debugging Code - Exercises\04. Numbers in Reversed Order\bin\Debug\_04.Numbers_in_Reversed_Order.pdb
+c:\users\maria\documents\visual studio 2017\Projects\Methods.Debugging Code - Exercises\04. Numbers in Reversed Order\obj\Debug\_04.Numbers_in_Reversed_Order.exe
+c:\users\maria\documents\visual studio 2017\Projects\Methods.Debugging Code - Exercises\04. Numbers in Reversed Order\obj\Debug\_04.Numbers_in_Reversed_Order.pdb
+C:\Users\Maria\documents\visual studio 2017\Projects\Methods.Debugging Code - Exercises\04. Numbers in Reversed Order\obj\Debug\04. Numbers in Reversed Order.csprojResolveAssemblyReference.cache

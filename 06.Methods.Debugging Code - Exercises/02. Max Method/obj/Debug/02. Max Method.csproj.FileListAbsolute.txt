@@ -1,0 +1,6 @@
+c:\users\maria\documents\visual studio 2017\Projects\Methods.Debugging Code - Exercises\02. Max Method\bin\Debug\_02.Max_Method.exe.config
+c:\users\maria\documents\visual studio 2017\Projects\Methods.Debugging Code - Exercises\02. Max Method\bin\Debug\_02.Max_Method.exe
+c:\users\maria\documents\visual studio 2017\Projects\Methods.Debugging Code - Exercises\02. Max Method\bin\Debug\_02.Max_Method.pdb
+c:\users\maria\documents\visual studio 2017\Projects\Methods.Debugging Code - Exercises\02. Max Method\obj\Debug\02. Max Method.csprojResolveAssemblyReference.cache
+c:\users\maria\documents\visual studio 2017\Projects\Methods.Debugging Code - Exercises\02. Max Method\obj\Debug\_02.Max_Method.exe
+c:\users\maria\documents\visual studio 2017\Projects\Methods.Debugging Code - Exercises\02. Max Method\obj\Debug\_02.Max_Method.pdb

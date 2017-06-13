@@ -1,0 +1,6 @@
+C:\Users\Maria\documents\visual studio 2017\Projects\Methods.Debugging Code - Exercises\06. Prime Checker\bin\Debug\_06.Prime_Checker.exe.config
+C:\Users\Maria\documents\visual studio 2017\Projects\Methods.Debugging Code - Exercises\06. Prime Checker\bin\Debug\_06.Prime_Checker.exe
+C:\Users\Maria\documents\visual studio 2017\Projects\Methods.Debugging Code - Exercises\06. Prime Checker\bin\Debug\_06.Prime_Checker.pdb
+C:\Users\Maria\documents\visual studio 2017\Projects\Methods.Debugging Code - Exercises\06. Prime Checker\obj\Debug\06. Prime Checker.csprojResolveAssemblyReference.cache
+C:\Users\Maria\documents\visual studio 2017\Projects\Methods.Debugging Code - Exercises\06. Prime Checker\obj\Debug\_06.Prime_Checker.exe
+C:\Users\Maria\documents\visual studio 2017\Projects\Methods.Debugging Code - Exercises\06. Prime Checker\obj\Debug\_06.Prime_Checker.pdb
