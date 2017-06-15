@@ -1,0 +1,5 @@
+c:\users\maria\documents\visual studio 2017\Projects\Arrays and Methods - More Exercises\02. Manipulate Array\bin\Debug\_02.Manipulate_Array.exe.config
+c:\users\maria\documents\visual studio 2017\Projects\Arrays and Methods - More Exercises\02. Manipulate Array\bin\Debug\_02.Manipulate_Array.exe
+c:\users\maria\documents\visual studio 2017\Projects\Arrays and Methods - More Exercises\02. Manipulate Array\bin\Debug\_02.Manipulate_Array.pdb
+c:\users\maria\documents\visual studio 2017\Projects\Arrays and Methods - More Exercises\02. Manipulate Array\obj\Debug\_02.Manipulate_Array.exe
+c:\users\maria\documents\visual studio 2017\Projects\Arrays and Methods - More Exercises\02. Manipulate Array\obj\Debug\_02.Manipulate_Array.pdb

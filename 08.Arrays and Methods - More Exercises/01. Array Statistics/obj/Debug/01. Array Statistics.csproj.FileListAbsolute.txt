@@ -1,0 +1,6 @@
+c:\users\maria\documents\visual studio 2017\Projects\Arrays and Methods - More Exercises\01. Array Statistics\bin\Debug\_01.Array_Statistics.exe.config
+c:\users\maria\documents\visual studio 2017\Projects\Arrays and Methods - More Exercises\01. Array Statistics\bin\Debug\_01.Array_Statistics.exe
+c:\users\maria\documents\visual studio 2017\Projects\Arrays and Methods - More Exercises\01. Array Statistics\bin\Debug\_01.Array_Statistics.pdb
+c:\users\maria\documents\visual studio 2017\Projects\Arrays and Methods - More Exercises\01. Array Statistics\obj\Debug\01. Array Statistics.csprojResolveAssemblyReference.cache
+c:\users\maria\documents\visual studio 2017\Projects\Arrays and Methods - More Exercises\01. Array Statistics\obj\Debug\_01.Array_Statistics.exe
+c:\users\maria\documents\visual studio 2017\Projects\Arrays and Methods - More Exercises\01. Array Statistics\obj\Debug\_01.Array_Statistics.pdb

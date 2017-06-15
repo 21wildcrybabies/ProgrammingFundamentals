@@ -1,0 +1,6 @@
+c:\users\maria\documents\visual studio 2017\Projects\Arrays and Methods - More Exercises\05. Pizza Ingredients\bin\Debug\_05.Pizza_Ingredients.exe.config
+c:\users\maria\documents\visual studio 2017\Projects\Arrays and Methods - More Exercises\05. Pizza Ingredients\bin\Debug\_05.Pizza_Ingredients.exe
+c:\users\maria\documents\visual studio 2017\Projects\Arrays and Methods - More Exercises\05. Pizza Ingredients\bin\Debug\_05.Pizza_Ingredients.pdb
+c:\users\maria\documents\visual studio 2017\Projects\Arrays and Methods - More Exercises\05. Pizza Ingredients\obj\Debug\05. Pizza Ingredients.csprojResolveAssemblyReference.cache
+c:\users\maria\documents\visual studio 2017\Projects\Arrays and Methods - More Exercises\05. Pizza Ingredients\obj\Debug\_05.Pizza_Ingredients.exe
+c:\users\maria\documents\visual studio 2017\Projects\Arrays and Methods - More Exercises\05. Pizza Ingredients\obj\Debug\_05.Pizza_Ingredients.pdb

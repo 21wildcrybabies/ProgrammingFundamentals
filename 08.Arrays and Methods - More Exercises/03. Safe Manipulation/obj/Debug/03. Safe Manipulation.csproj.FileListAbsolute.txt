@@ -1,0 +1,5 @@
+c:\users\maria\documents\visual studio 2017\Projects\Arrays and Methods - More Exercises\03. Safe Manipulation\bin\Debug\_03.Safe_Manipulation.exe.config
+c:\users\maria\documents\visual studio 2017\Projects\Arrays and Methods - More Exercises\03. Safe Manipulation\bin\Debug\_03.Safe_Manipulation.exe
+c:\users\maria\documents\visual studio 2017\Projects\Arrays and Methods - More Exercises\03. Safe Manipulation\bin\Debug\_03.Safe_Manipulation.pdb
+c:\users\maria\documents\visual studio 2017\Projects\Arrays and Methods - More Exercises\03. Safe Manipulation\obj\Debug\_03.Safe_Manipulation.exe
+c:\users\maria\documents\visual studio 2017\Projects\Arrays and Methods - More Exercises\03. Safe Manipulation\obj\Debug\_03.Safe_Manipulation.pdb
