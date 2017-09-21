@@ -1,0 +1,119 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Security.Cryptography.X509Certificates;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace _02.Vehicle_Catalogue
+{
+    class Program
+    {
+
+        class Car
+        {
+           
+            public string Model { get; set; }
+            public string Color { get; set; }
+            public int HorsePower { get; set; }
+        }
+        class Truck
+        {
+
+            public string Model { get; set; }
+            public string Color { get; set; }
+            public int HorsePower { get; set; }
+        }
+
+        static void Main(string[] args)
+        {
+            List<Car> Cars = new List<Car>();
+            List<Truck> Trucks = new List<Truck>();
+
+
+            do
+            {
+                string[] Data = Console.ReadLine().Split(' ').ToArray();
+
+                if (Data[0] == "End")
+                {
+                    break;
+                }
+
+                switch (Data[0].ToLower())
+                {
+                   
+                    case "car":
+                    {
+                        Car CarsData = new Car();
+                        CarsData.Model = Data[1];
+                        CarsData.Color = Data[2];
+                        CarsData.HorsePower = int.Parse(Data[3]);
+
+                        Cars.Add(CarsData);
+                        break;
+                    }
+                   
+                    case "truck":
+                    {
+                        Truck TruckData = new Truck();
+                        TruckData.Model = Data[1];
+                        TruckData.Color = Data[2];
+                        TruckData.HorsePower = int.Parse(Data[3]);
+
+                        Trucks.Add(TruckData);
+                        break;
+                        }
+                    default:
+                    {
+                        break;
+                    }
+                }
+              
+            } while (true);
+
+            do
+            {
+                string request = Console.ReadLine();
+
+                if (request == "Close the Catalogue")
+                {
+                    break;
+                }
+
+                foreach (var item in Cars.Where(x => x.Model == request))
+                {
+                   
+                    Console.WriteLine($"Type: Car");
+                    Console.WriteLine($"Model: {item.Model}");
+                    Console.WriteLine($"Color: {item.Color}");
+                    Console.WriteLine($"Horsepower: {item.HorsePower}");
+
+                }
+                foreach (var item in Trucks.Where(x => x.Model == request))
+                {
+                    Console.WriteLine($"Type: Truck");
+                    Console.WriteLine($"Model: {item.Model}");
+                    Console.WriteLine($"Color: {item.Color}");
+                    Console.WriteLine($"Horsepower: {item.HorsePower}");
+                }
+
+            } while (true);
+
+            double CarsAvarage = 0.00;
+            double TrucksAvarage = 0.00;
+          
+            if (Cars.Count > 0)
+            {
+            CarsAvarage =  Cars.Average(r => r.HorsePower);
+            }
+            if ( Trucks.Count > 0)
+            {
+            TrucksAvarage = Trucks.Average(r => r.HorsePower);
+            }
+
+            Console.WriteLine($"Cars have average horsepower of: {CarsAvarage:f2}.");
+            Console.WriteLine($"Trucks have average horsepower of: {TrucksAvarage:f2}.");
+        }
+    }
+}

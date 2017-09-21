@@ -1,0 +1,46 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text.RegularExpressions;
+using System.Threading.Tasks;
+
+namespace _03.Camera_View
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            var parameters = Console.ReadLine().Split().ToArray();
+            var m = int.Parse(parameters[0]);
+            var n = int.Parse(parameters[1]);
+
+            var pattern = new Regex(@"(?<=\|<)(?<n>\w+)");
+
+            var input = Console.ReadLine();
+            
+            var matches = pattern.Matches(input)
+                .Cast<Match>()
+                .Select(a => a.Groups["n"].Value)
+                .ToArray();
+
+            var output = new List<string>();
+            foreach (var text in matches)
+            {
+                if (text.Length >= m + n)
+                {
+                    output.Add(text.Substring(m, n));
+                }
+                else if (text.Length < m + n)
+                {
+                    output.Add(text.Remove(0, m));
+                }
+                else if (text.Length <= m)
+                {
+                    continue;
+                }
+            }
+
+            Console.WriteLine(string.Join(", ", output));
+        }
+    }
+}

@@ -1,0 +1,78 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+
+public class SoftUniDemosC
+{
+    public static void Main(string[] args)
+    {
+        var teams = new SortedDictionary<string, Tuple<string, List<string>>>();
+
+        var teamEntries = int.Parse(Console.ReadLine());
+        
+        string[] command;
+        
+        while (teamEntries-- > 0)
+        {
+            command = Console.ReadLine().Split('-');
+
+            if (teams.ContainsKey(command[1]))
+            {
+                Console.WriteLine($"Team {command[1]} was already created!");
+            }
+            else if (teams.Count(x => x.Value.Item1 == command[0]) > 0)
+            {
+                Console.WriteLine($"{command[0]} cannot create another team!");
+            }
+            else
+            {
+                var members = new Tuple<string, List<string>>(command[0], new List<string>());
+                teams.Add(command[1], members);
+                Console.WriteLine($"Team {command[1]} has been created by {command[0]}!");
+            }
+        }
+        
+        command = Read();
+        
+        while (true)
+        {
+            if (command[0] == "end of assignment") break;
+         
+            if (!teams.ContainsKey(command[1]))
+            {
+                Console.WriteLine($"Team {command[1]} does not exist!");
+            }
+            else if (teams.Count(x => x.Value.Item2.Contains(command[0])) > 0 || teams.Count(x => x.Value.Item1 == command[0]) > 0)
+            {
+                Console.WriteLine($"Member {command[0]} cannot join team {command[1]}!");
+            }
+            else
+            {
+                teams[command[1]].Item2.Add(command[0]);
+            }
+            command = Read();
+        }
+
+        foreach (var team in teams.Where(x => x.Value.Item2.Count > 0).OrderByDescending(x => x.Value.Item2.Count))
+        {
+            Console.WriteLine($"{team.Key}\n- {team.Value.Item1}");
+            
+            foreach (var member in team.Value.Item2.OrderBy(x => x))
+            {
+                Console.WriteLine($"-- {member}");
+            }
+        }
+
+        Console.WriteLine("Teams to disband:");
+
+        foreach (var team in teams.Where(x => x.Value.Item2.Count == 0).OrderBy(x => x.Key))
+        {
+            Console.WriteLine(team.Key);
+        }
+    }
+
+    private static string[] Read()
+    {
+        return Console.ReadLine().Split( new [] {'-', '>'}, StringSplitOptions.RemoveEmptyEntries);
+    }
+}

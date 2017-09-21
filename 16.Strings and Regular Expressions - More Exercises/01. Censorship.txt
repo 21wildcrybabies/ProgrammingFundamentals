@@ -1,0 +1,19 @@
+using System;
+using System.Text;
+
+namespace Censorship
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string word = Console.ReadLine();
+            var sentence = new StringBuilder(Console.ReadLine());
+
+            var replace = sentence
+              .Replace(word, new string('*', word.Length));
+
+            Console.WriteLine(replace.ToString());
+        }
+    }
+}
